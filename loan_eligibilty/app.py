@@ -11,10 +11,7 @@ st.title("Loan Eligibility Prediction App")
 
 model_path = 'models/loan_model.pkl'
 
-# Load the model
-if not os.path.exists(model_path):
-    st.error("Model not found. Please run `train.py` to train and save the model.")
-    st.stop()
+
 
 model = joblib.load(model_path)
 
