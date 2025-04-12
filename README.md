@@ -6,7 +6,7 @@ This project uses Logistic Regression and Random Forest (with hyperparameter tun
 
 ## Launch the Streamlit app:
    ```
-   streamlit run app.py or access 
+   [streamlit run app.py or access ](https://loanelgibilitycalculator-brvkxrgdmtpb5my7rvvyf5.streamlit.app/)
    ```
 
 ## Folder Structure
