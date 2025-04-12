@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Loan Approval Predictor", layout="centered")
 st.title("Loan Eligibility Prediction App")
 
-model_path = 'models/loan_model.pkl'
+model_path = 'loan_eligibilty/models/loan_model.pkl'
 
 
 
