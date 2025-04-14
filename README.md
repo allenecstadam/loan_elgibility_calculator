@@ -5,10 +5,10 @@ This project uses Logistic Regression and Random Forest (with hyperparameter tun
 
 
 ## Launch the Streamlit app:
-   ```
-https://loanelgibilitycalculator-brvkxrgdmtpb5my7rvvyf5.streamlit.app/
+   
+[Loan Eligibility Calculator](https://loanelgibilitycalculator-brvkxrgdmtpb5my7rvvyf5.streamlit.app/)
 
-```
+
 
 ## Folder Structure
 
